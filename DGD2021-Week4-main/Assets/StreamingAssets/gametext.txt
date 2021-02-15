@@ -1,0 +1,6 @@
+idevent	speaker	text	nextevent	LastEventInSequence	imageAsset	audioAsset
+0	Player	Hello, PlayBall, are you ready for your run?	1	N	PlayerDialogueImage	randomsound1
+1	Player	Yes!	2	Y	PlayerDialogueImageMove	randomsound2
+5	Player	enough of that!	999	N	PlayerDialogueImageTired	
+2	Player	wow, I am so tired!	-1	Y	PlayerDialogueImageTired	randomsound3	
+999	Player	what a terrible lecture!	2	Y	PlayerDialogueImage	
